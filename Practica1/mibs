@@ -1,0 +1,30 @@
+Número de agentes: Con el json
+Estado de cada agente: Si no hay respuesta, está apagado 1.3.6.1.2.1.1.1.0
+Número de interfaces de red de cada agentes: 1.3.6.1.2.1.2.1.0
+Estado y descripción de cada red: https://cric.grenoble.cnrs.fr/Administrateurs/Outils/MIBS/?oid=1.3.6.1.2.1.2.2.1   
+                1.3.6.1.2.1.2.2.1.2.1 (lo ¿esta bien?)
+                  ifDescr - 1.3.6.1.2.1.2.2.1.2.1
+                  ifAdminStatus - 1.3.6.1.2.1.2.2.1.  7.   1     
+                                              ifEntry| |  | |numInterfaz 
+
+
+
+
+Nombre SO: 1.3.6.1.2.1.1.1.0
+Versión SO: 1.3.6.1.2.1.1.1.0
+Logo: Según el SO
+
+Ubicacion: 1.3.6.1.2.1.1.6.0
+Número de interfaces de red: 1.3.6.1.2.1.2.1.0
+Tiempo Actividad: 1.3.6.1.2.1.1.3.0
+
+ip:
+Falta comunidad e IP
+
+Paquetes unicast: 1.3.6.1.2.1.2.2.1.11.1
+Paquetes recibidos ipv4: 1.3.6.1.2.1.4.3.0
+ICMP echo: 1.3.6.1.2.1.5.8.0
+          1.3.6.1.2.1.5.9.0
+Segmentos recibidos: 1.3.6.1.2.1.6.10.0 
+Datagramas entregados: 1.3.6.1.2.1.7.1.0
+  

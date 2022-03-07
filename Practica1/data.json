@@ -1,0 +1,18 @@
+{
+    "agentes": [
+        {
+            "alias": "Linux",
+            "ip": "localhost",
+            "comunidad": "comunidadASR",
+            "puerto": "161",
+            "versionSNMP": "v1"
+        },
+        {
+            "alias": "Windows",
+            "ip": "192.168.0.16",
+            "comunidad": "comunidadASR",
+            "puerto": "161",
+            "versionSNMP": "v1"
+        }
+    ]
+}
